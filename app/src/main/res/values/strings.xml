@@ -7,11 +7,16 @@
     <string name="detail_description_label">Description:</string>
     <string name="detail_ingredients_label">Ingredients:</string>
 
+    <string name="origin_placeholder_text" >Origin Placeholder Text</string>
+
     <!-- Content descriptions-->
     <string name="sandwich_picture_content_description">Sandwich picture</string>
 
     <!-- Error messages-->
     <string name="detail_error_message">Sandwich data not available</string>
+    <string name="description_placeholder_text">The Description</string>
+    <string name="ingredients_placeholder_text">The Ingredients</string>
+    <string name="also_known_as_placeholder_text">The Other Names</string>
 
     <string-array name="sandwich_names">
         <item>Ham and cheese sandwich</item>
